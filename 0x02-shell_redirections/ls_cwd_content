@@ -1,0 +1,27 @@
+total 72
+drwxr-xr-x 2 root root 4096 Jun 12 19:35 .
+drwxr-xr-x 6 root root  104 Jun 12 18:00 ..
+-rwxr--r-- 1 root root   41 Jun 12 18:19 0-hello_world
+-rw-r--r-- 1 root root    0 Jun 12 18:04 0-hello_world~
+-rwxr--r-- 1 root root   29 Jun 12 18:28 1-confused_smiley
+-rwxr--r-- 1 root root   27 Jun 12 18:24 1-confused_smiley~
+-rwxr--r-- 1 root root   30 Jun 12 18:32 2-hellofile
+-rwxr--r-- 1 root root   31 Jun 12 18:30 2-hellofile~
+-rwxr--r-- 1 root root   39 Jun 12 18:41 3-twofiles
+-rw-r--r-- 1 root root    0 Jun 12 18:38 3-twofiles~
+-rwxr--r-- 1 root root   29 Jun 12 18:45 4-lastlines
+-rw-r--r-- 1 root root    0 Jun 12 18:42 4-lastlines~
+-rwxr--r-- 1 root root   29 Jun 12 18:46 5-firstlines
+-rw-r--r-- 1 root root    0 Jun 12 18:46 5-firstlines~
+-rwxr--r-- 1 root root   21 Jun 12 19:13 #6-third_line#
+-rwxr--r-- 1 root root   40 Jun 12 19:15 6-third_line
+-rwxr--r-- 1 root root   33 Jun 12 19:08 6-third_line~
+-rwxr--r-- 1 root root  129 Jun 12 19:30 7-file
+-rwxr--r-- 1 root root  122 Jun 12 19:19 7-file~
+-rwxr--r-- 1 root root   35 Jun 12 19:35 8-cwd_state
+-rw-r--r-- 1 root root    0 Jun 12 19:34 8-cwd_state~
+-rw-r--r-- 1 root root   99 Jun 12 19:23 \*\\'"Best
+-rw-r--r-- 1 root root   14 Jun 12 19:31 \*\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root   14 Jun 12 19:26 \*\\'Best School\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Jun 12 19:09 iacta
+-rw-r--r-- 1 root root    0 Jun 12 19:35 ls_cwd_content
