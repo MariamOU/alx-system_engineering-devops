@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+localhost_ip = "127.0.0.2"
+facebook_ip = "8.8.8.8"
+
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as root" 
+   exit 1
+fi
+
+echo "$localhost_ip localhost" >> /etc/hosts
+echo "$facebook_ip facebook.com" >> /etc/hosts
